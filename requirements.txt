@@ -1,0 +1,11 @@
+SpeechRecognition
+fuzzywuzzy
+pyttsx3
+wikipedia
+pyown
+bs4
+html2text
+webbrowser
+pyaudio
+python-Levenshtein
+install pipwin
