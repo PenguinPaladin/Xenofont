@@ -8,4 +8,8 @@ html2text
 webbrowser
 pyaudio
 python-Levenshtein
-install pipwin
+pipwin
+aiohttp
+ollama
+playsound3
+gTTS
